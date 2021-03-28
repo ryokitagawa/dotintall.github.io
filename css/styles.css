@@ -1,0 +1,10 @@
+section{
+  display: flex;
+}
+.pic{
+  width: 100px;
+  margin-right: 32px;
+}
+.desc{
+  flex: 1;
+}
